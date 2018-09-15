@@ -157,5 +157,28 @@ venv.bak/
 !.vscode/launch.json
 !.vscode/extensions.json
 
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+bin/
+out/
+application.yml
+.tern-project
+logs/
 
 # End of https://www.gitignore.io/api/go,kotlin,python,visualstudiocode
