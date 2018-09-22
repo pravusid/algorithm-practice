@@ -1,5 +1,7 @@
 # Created by https://www.gitignore.io/api/go,kotlin,python,visualstudiocode
 
+.vscode/
+
 ### Go ###
 # Binaries for programs and plugins
 *.exe
