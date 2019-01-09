@@ -1,8 +1,8 @@
 # 알고리즘 기초
 
-- [정렬](fundamental/sort)
-- [탐색](fundamental/search)
-- 그래프
+- [정렬: O(n^2)](fundamental/sort/)
+- [정렬: O(nlogn)](fundamental/sort-advanced/)
+- [탐색](fundamental/search/)
 - 스트링
 - 동적 프로그래밍
 - NP-완전 문제
