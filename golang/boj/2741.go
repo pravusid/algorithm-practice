@@ -6,7 +6,7 @@ import (
 	"strings"
 )
 
-func main() {
+func BojNo2741() {
 	var n int
 	fmt.Scanf("%d", &n)
 	str := new(strings.Builder)
